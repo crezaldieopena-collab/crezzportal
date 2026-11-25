@@ -1,0 +1,8 @@
+.env
+.env.*
+config.local.php
+*.log
+*.sql
+*.bak
+.DS_Store
+Thumbs.db
